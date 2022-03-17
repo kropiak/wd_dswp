@@ -34,11 +34,8 @@ Zaleca się również wykorzystywanie narzędzia `git` do śledzenia i zarządza
 
 **Zadanie 1**
 
-Przeanalizuj notebook 1_eda_with_python i
+Uruchom lokalnie i przeanalizuj notebook [1_eda_with_python](notebooks/1_eda_with_python.ipynb).
 
-* stwórz nowy i przeprowadź analizę EDA dla pliku ...
-* stwórz nowy na podstawie w/w
-* zmień tu i tu (do zrobienia)
-* dodaj to i to (np. zapisanie jako oddzielne pliki, jakieś dodatkowe statystyki)
-* jakieś zadania z transformacji danych, preprocessingu, konwersji
-* 
+**Zadanie 2**  
+
+Na podstawie w/w notebooka dokonaj analizy zbioru danych [diabetes](data/diabetes.csv).

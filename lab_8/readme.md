@@ -1,4 +1,4 @@
-#**Lab 8. Dalsza analiza danych z użyciem pandas. Porównanie wykresów matplotlib oraz seaborn.**
+# **Lab 8. Dalsza analiza danych z użyciem pandas. Porównanie wykresów matplotlib oraz seaborn.**
 
 Biblioteka seaborn, której pojedyncze przykłady zastosowania pojawiały się już wcześniej, jest biblioteką opartą o bibliotekę matplotlib z silnym wsparciem dla struktur danych biblioteki pandas. Seaborn przenosi tworzenie standardowych wykresów nie nieco wyższy poziom abstrakcji poprzez sensowne określenie domyślnych parametrów wykresów. Wykresy te charakteryzują się również bardziej atrakcyjną oprawą graficzną w porównaniu do standardowych wykresów biblioteki matplotlib.
 

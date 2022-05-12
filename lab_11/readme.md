@@ -12,6 +12,8 @@ Jeżeli biblioteka `plotly` jest już zainstalowana w używanym środowisku pyth
 
 ## 1. Krótkie wprowadzenie do `ipywidgets`
 
+> **UWAGA** Notebooki należy pobrać na komputer lokalny i zaleca się je uruchamiać z poziomu przeglądarki internetowej (poprzez PyCharm część kontrolek może nie wyświetlać się poprawnie)
+
 **Zadanie 1** 
 
 Przeanalizuj dokumentację pod adresem: https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html jako materiał wprowadzający.

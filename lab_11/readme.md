@@ -28,7 +28,7 @@ Oprócz typowych widgetów takich jak suwaki, listy rozwijane, pola tekstowe zna
 
 **Zadanie 3**
 
-Przeanalizuj notebook [11_test_plotly_interactive.ipynb](11_test_plotly_interactive.ipynb) pochodzący z oficjalnej dokumentacji plotly, a następnie przygotuj własne rozwiązanie z interaktywnym wykresem na podstawie datasetu [zamowienia](../lab_10/data/zamowienia.csv). Używając kontrolek uwzględnij:
+Przeanalizuj notebook [11_test_plotly_interactive.ipynb](11_test_plotly_interactive.ipynb) pochodzący z oficjalnej dokumentacji plotly (adres: https://plotly.com/python/figurewidget-app/), a następnie przygotuj własne rozwiązanie z interaktywnym wykresem na podstawie datasetu [zamowienia](../lab_10/data/zamowienia.csv). Używając kontrolek uwzględnij:
 * możliwość wyboru roku do wyświetlenia - rok pobierany dynamicznie z danych
 * możliwość wyboru sprzedawcy - lista sprzedawców również dynamiczne
 * możliwość wyboru kraju - również dynamicznie
